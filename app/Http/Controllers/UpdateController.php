@@ -108,10 +108,12 @@ class UpdateController extends Controller
 
         if($tid=='B000001' && $ac=='1234567891234')
         {
-            return '0x9000';
+            //return '0x9000';
+            return $request;
         }
         else{
-           return '0x9100';
+           //return '0x9100';
+            return $request;
         }
     }
 
