@@ -27,3 +27,4 @@ $app->post('upload','UpdateController@upload');
 $app->get('download','UpdateController@download');
 
 $app->post('inq','UpdateController@inq');
+$app->post('dep','UpdateController@dep');
