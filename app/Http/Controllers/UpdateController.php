@@ -146,7 +146,7 @@ class UpdateController extends Controller
 //        }
 
 
-        return $request;
+        return response()->json(['0x9000','000000000001','sn000000001']);
 
     }
 
