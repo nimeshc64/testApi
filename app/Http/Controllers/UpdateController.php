@@ -106,7 +106,7 @@ class UpdateController extends Controller
         $tid=$request->input('tid');
         $ac=$request->input('inq');
 
-        if($tid=='B000001' && $ac=='1234567891234')
+        if($tid=='B0000001' && $ac=='1234567891234')
         {
             return '0x9000';
             //return $request;
