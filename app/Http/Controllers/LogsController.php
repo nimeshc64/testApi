@@ -242,4 +242,26 @@ class LogsController extends Controller
         return $data;
     }
 
+    /**
+     * @param Request $request
+     * branch , terminal
+     * @return string
+     */
+    function pullNow(Request $request)
+    {
+        $branch=$request->input('branch');
+        $terminal=$request->input('terminal');
+
+        $UpdateDetails = DB::table('logs')
+            ->where('branch', $branch)
+            ->where('terminal',$terminal)
+            ->update(['pullNow'=>1,'updated_at' => Carbon::now()]);
+        if($UpdateDetails==1)
+        {
+            return 'true';
+        }else{
+            return 'false';
+        }
+    }
+
 }

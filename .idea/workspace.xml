@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be8db00e-f0d6-4525-87f7-1d49c9ca9d8f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/UpdateController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/UpdateController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/LogsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/LogsController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="LogsController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LogsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="244" column="1" lean-forward="false" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
+            <state relative-caret-position="158">
+              <caret line="244" column="7" lean-forward="true" selection-start-line="244" selection-start-column="7" selection-end-line="244" selection-end-column="7" />
               <folding>
                 <element signature="e#6#89#0#PHP" expanded="true" />
                 <element signature="e#122#135#0#PHP" expanded="true" />
@@ -49,8 +49,8 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="30" column="82" lean-forward="false" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
+            <state relative-caret-position="462">
+              <caret line="31" column="69" lean-forward="false" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
               <folding>
                 <element signature="e#7#388#0#PHP" expanded="true" />
               </folding>
@@ -82,8 +82,8 @@
         <option value="$USER_HOME$/AppData/Local/Temp/scp59493/opt/eALB/apache2/htdocs/eamana/.env" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp13266/opt/eALB/apache2/htdocs/eamana/app/Http/Controllers/Backend/General/CashStatusController.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp23374/opt/eALB/apache2/htdocs/eamana/app/Http/Controllers/Backend/Access/Kiosk/KioskController.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/LogsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -301,12 +301,12 @@
       <workItem from="1482897871927" duration="8377000" />
       <workItem from="1482907914545" duration="13000" />
       <workItem from="1482987268608" duration="8069000" />
-      <workItem from="1483427072442" duration="611000" />
+      <workItem from="1483427072442" duration="1350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53265000" />
+    <option name="totallyTimeSpent" value="54004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,8 +660,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp23374/opt/eALB/apache2/htdocs/eamana/app/Http/Controllers/Backend/Access/Kiosk/KioskController.php" />
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="30" column="82" lean-forward="false" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
+        <state relative-caret-position="462">
+          <caret line="31" column="69" lean-forward="false" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
           <folding>
             <element signature="e#7#388#0#PHP" expanded="true" />
           </folding>
@@ -670,8 +670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LogsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="244" column="1" lean-forward="false" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
+        <state relative-caret-position="158">
+          <caret line="244" column="7" lean-forward="true" selection-start-line="244" selection-start-column="7" selection-end-line="244" selection-end-column="7" />
           <folding>
             <element signature="e#6#89#0#PHP" expanded="true" />
             <element signature="e#122#135#0#PHP" expanded="true" />

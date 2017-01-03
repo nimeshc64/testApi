@@ -29,3 +29,4 @@ $app->get('getFile','LogsController@getFileName');//get all current file names
 $app->get('logDownload','LogsController@logDownload');//download log file
 $app->get('branch','LogsController@getAllBranch');//get all branchers
 $app->get('terminal','LogsController@getAllTerminal');//get all terminal by branch
+$app->post('pullNow','LogsController@pullNow');//update pullNow value
