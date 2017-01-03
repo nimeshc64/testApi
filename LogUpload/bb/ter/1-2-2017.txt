@@ -1,0 +1,105 @@
+1/2/2017 4:11:52 PM: xxxxxxxxxxxxxx
+1/2/2017 4:14:46 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:15:11 PM: Check Update
+1/2/2017 4:15:36 PM: Check Update
+1/2/2017 4:15:57 PM: ====================== KioskLogPullService Stop ========================
+1/2/2017 4:26:17 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:26:42 PM: Check Update
+1/2/2017 4:26:42 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:00 PM: ====================== KioskLogPullService Stop ========================
+1/2/2017 4:27:11 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:27:12 PM: Check Update
+1/2/2017 4:27:12 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:13 PM: Check Update
+1/2/2017 4:27:13 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:14 PM: Check Update
+1/2/2017 4:27:14 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:15 PM: Check Update
+1/2/2017 4:27:15 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:16 PM: Check Update
+1/2/2017 4:27:16 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:17 PM: Check Update
+1/2/2017 4:27:17 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:18 PM: Check Update
+1/2/2017 4:27:18 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:19 PM: Check Update
+1/2/2017 4:27:19 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:20 PM: Check Update
+1/2/2017 4:27:20 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:21 PM: Check Update
+1/2/2017 4:27:21 PM: System.Xml.Linq.XContainer+<GetDescendants>d__a
+1/2/2017 4:27:22 PM: ====================== KioskLogPullService Stop ========================
+1/2/2017 4:28:36 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:28:37 PM: Check Update
+1/2/2017 4:28:37 PM: COM14
+1/2/2017 4:28:38 PM: Check Update
+1/2/2017 4:28:38 PM: COM14
+1/2/2017 4:28:39 PM: Check Update
+1/2/2017 4:28:39 PM: COM14
+1/2/2017 4:28:40 PM: Check Update
+1/2/2017 4:28:40 PM: COM14
+1/2/2017 4:28:41 PM: Check Update
+1/2/2017 4:28:41 PM: COM14
+1/2/2017 4:28:42 PM: Check Update
+1/2/2017 4:28:42 PM: COM14
+1/2/2017 4:28:43 PM: Check Update
+1/2/2017 4:28:43 PM: COM14
+1/2/2017 4:28:43 PM: ====================== KioskLogPullService Stop ========================
+1/2/2017 4:36:10 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:36:11 PM: Check Update
+1/2/2017 4:36:11 PM: 
+1/2/2017 4:36:12 PM: Check Update
+1/2/2017 4:36:12 PM: 
+1/2/2017 4:36:13 PM: Check Update
+1/2/2017 4:36:13 PM: 
+1/2/2017 4:36:14 PM: Check Update
+1/2/2017 4:36:14 PM: 
+1/2/2017 4:36:15 PM: Check Update
+1/2/2017 4:36:15 PM: 
+1/2/2017 4:36:16 PM: Check Update
+1/2/2017 4:36:16 PM: 
+1/2/2017 4:36:17 PM: Check Update
+1/2/2017 4:36:17 PM: 
+1/2/2017 4:36:18 PM: Check Update
+1/2/2017 4:36:18 PM: 
+1/2/2017 4:36:19 PM: Check Update
+1/2/2017 4:36:19 PM: 
+1/2/2017 4:36:20 PM: Check Update
+1/2/2017 4:36:20 PM: 
+1/2/2017 4:36:21 PM: Check Update
+1/2/2017 4:36:21 PM: 
+1/2/2017 4:36:22 PM: Check Update
+1/2/2017 4:36:22 PM: 
+1/2/2017 4:36:23 PM: Check Update
+1/2/2017 4:36:23 PM: 
+1/2/2017 4:36:24 PM: Check Update
+1/2/2017 4:36:24 PM: 
+1/2/2017 4:36:24 PM: ====================== KioskLogPullService Stop ========================
+1/2/2017 4:38:00 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:38:01 PM: Check Update
+1/2/2017 4:38:01 PM: Head Office
+1/2/2017 4:38:02 PM: Check Update
+1/2/2017 4:38:02 PM: Head Office
+1/2/2017 4:38:03 PM: Check Update
+1/2/2017 4:38:03 PM: Head Office
+1/2/2017 4:38:04 PM: Check Update
+1/2/2017 4:38:04 PM: Head Office
+1/2/2017 4:38:05 PM: Check Update
+1/2/2017 4:38:05 PM: Head Office
+1/2/2017 4:38:06 PM: Check Update
+1/2/2017 4:38:06 PM: Head Office
+1/2/2017 4:38:07 PM: Check Update
+1/2/2017 4:38:07 PM: Head Office
+1/2/2017 4:38:07 PM: ====================== KioskLogPullService Stop ========================
+1/2/2017 4:40:10 PM: ===================== KioskLogPullService Started ======================
+1/2/2017 4:40:11 PM: Check Update
+1/2/2017 4:40:11 PM: Head Office
+1/2/2017 4:40:12 PM: Check Update
+1/2/2017 4:40:12 PM: Head Office
+1/2/2017 4:40:13 PM: Check Update
+1/2/2017 4:40:13 PM: Head Office
+1/2/2017 4:40:14 PM: Check Update
+1/2/2017 4:40:14 PM: Head Office
+1/2/2017 4:40:15 PM: Check Update
+1/2/2017 4:40:15 PM: Head Office
+1/2/2017 4:40:16 PM: ====================== KioskLogPullService Stop ========================

@@ -16,15 +16,16 @@ $app->get('/', function () use ($app) {
     return $app->version();
 });
 
-//$app->get('version',function(){
-//    return '3.2';
-//});
+//URL for UpdatePUshService
+$app->get('version','UpdateController@getLastVersion');//check version
+$app->post('upload','UpdateController@upload');//upload zip file
+$app->get('download','UpdateController@download');//download zip file
 
-$app->get('version','UpdateController@getLastVersion');
-//$app->post('version1','UpdateController@saveVersion');
 
-$app->post('upload','UpdateController@upload');
-$app->get('download','UpdateController@download');
-
-$app->post('inq','UpdateController@inq');
-$app->post('dep','UpdateController@dep');
+//URL for LogsPUllService
+$app->get('check','LogsController@check');//check now pull log
+$app->post('logUpload','LogsController@logUpload');//upload log file .txt
+$app->get('getFile','LogsController@getFileName');//get all current file names
+$app->get('logDownload','LogsController@logDownload');//download log file
+$app->get('branch','LogsController@getAllBranch');//get all branchers
+$app->get('terminal','LogsController@getAllTerminal');//get all terminal by branch
